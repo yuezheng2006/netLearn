@@ -1,0 +1,20 @@
+{
+  "name": "网络协议学习",
+  "short_name": "网络协议",
+  "icons": [
+    {
+      "src": "/icons/icon-64.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/netLearn",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c"
+}
